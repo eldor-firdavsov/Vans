@@ -6,7 +6,7 @@ export default function Home() {
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             backgroundRepeat: 'no-repeat',
-            height: 'screen '
+            minHeight: '90vh'
             }}
             className="text-white flex items-center justify-center h-150"
         >

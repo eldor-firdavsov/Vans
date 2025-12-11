@@ -1,8 +1,8 @@
 
 export default function About(){
     return(
-        <section className="max-w-[600px] flex flex-col items-center justif-center  bg-[#FFF7ED] pb-[55px] mb-20">
-            <img className="w-screen" src="./images/aboutImg2.png" alt="" />
+        <section className=" flex flex-col items-center justif-center  bg-[#FFF7ED] pb-[55px] mb-20">
+            <img className="w-screen " src="./images/aboutImg2.png" alt="" />
             <div className="flex flex-col items-center justif-center px-[27px]">
                 <div className=" flex flex-col">
                     <h2 className="font-bold text-[32px] mt-12">Don’t squeeze in a sedan when you could relax in a van.</h2>

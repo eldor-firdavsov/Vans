@@ -4,7 +4,7 @@ import { Link, useLocation } from "react-router-dom";
 export default function Header(){
     const location = useLocation()
     return(
-        <header className="flex justify-between items-center py-[45px] px-[25px] max-w-[600px] bg-[#FFF7ED] ">
+        <header className="flex justify-between items-center py-[45px] px-[27px]  bg-[#FFF7ED] ">
             <Link className="font-black text-[26px]" to={''}>#VANLIFE</Link>
 
             <nav className="flex gap-3 items-center">
